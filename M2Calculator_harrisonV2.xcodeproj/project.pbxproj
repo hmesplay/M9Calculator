@@ -6,6 +6,39 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		255E987D2F2BCB3900C19968 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E98732F2BCB3900C19968 /* AppDelegate.swift */; };
+		255E987E2F2BCB3900C19968 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E987A2F2BCB3900C19968 /* SceneDelegate.swift */; };
+		255E987F2F2BCB3900C19968 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E987B2F2BCB3900C19968 /* ViewController.swift */; };
+		255E98802F2BCB3900C19968 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 255E98772F2BCB3900C19968 /* LaunchScreen.storyboard */; };
+		255E98812F2BCB3900C19968 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 255E98752F2BCB3900C19968 /* Info.plist */; };
+		255E98822F2BCB3900C19968 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 255E98792F2BCB3900C19968 /* Main.storyboard */; };
+		255E98832F2BCB3900C19968 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 255E98742F2BCB3900C19968 /* Assets.xcassets */; };
+		255E98842F2BCB3900C19968 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 255E98772F2BCB3900C19968 /* LaunchScreen.storyboard */; };
+		255E98852F2BCB3900C19968 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 255E98752F2BCB3900C19968 /* Info.plist */; };
+		255E98862F2BCB3900C19968 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 255E98792F2BCB3900C19968 /* Main.storyboard */; };
+		255E98872F2BCB3900C19968 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 255E98742F2BCB3900C19968 /* Assets.xcassets */; };
+		255E98882F2BCB3900C19968 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E98732F2BCB3900C19968 /* AppDelegate.swift */; };
+		255E98892F2BCB3900C19968 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E987A2F2BCB3900C19968 /* SceneDelegate.swift */; };
+		255E988A2F2BCB3900C19968 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E987B2F2BCB3900C19968 /* ViewController.swift */; };
+		255E988B2F2BCB3900C19968 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 255E98772F2BCB3900C19968 /* LaunchScreen.storyboard */; };
+		255E988C2F2BCB3900C19968 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 255E98752F2BCB3900C19968 /* Info.plist */; };
+		255E988D2F2BCB3900C19968 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 255E98792F2BCB3900C19968 /* Main.storyboard */; };
+		255E988E2F2BCB3900C19968 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 255E98742F2BCB3900C19968 /* Assets.xcassets */; };
+		255E988F2F2BCB3900C19968 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E98732F2BCB3900C19968 /* AppDelegate.swift */; };
+		255E98902F2BCB3900C19968 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E987A2F2BCB3900C19968 /* SceneDelegate.swift */; };
+		255E98912F2BCB3900C19968 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E987B2F2BCB3900C19968 /* ViewController.swift */; };
+		255E98942F2BCB4300C19968 /* M2Calculator_harrisonV2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E98922F2BCB4300C19968 /* M2Calculator_harrisonV2Tests.swift */; };
+		255E98952F2BCB4300C19968 /* M2Calculator_harrisonV2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E98922F2BCB4300C19968 /* M2Calculator_harrisonV2Tests.swift */; };
+		255E98962F2BCB4300C19968 /* M2Calculator_harrisonV2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E98922F2BCB4300C19968 /* M2Calculator_harrisonV2Tests.swift */; };
+		255E989A2F2BCB4900C19968 /* M2Calculator_harrisonV2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E98982F2BCB4900C19968 /* M2Calculator_harrisonV2UITestsLaunchTests.swift */; };
+		255E989B2F2BCB4900C19968 /* M2Calculator_harrisonV2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E98972F2BCB4900C19968 /* M2Calculator_harrisonV2UITests.swift */; };
+		255E989C2F2BCB4900C19968 /* M2Calculator_harrisonV2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E98982F2BCB4900C19968 /* M2Calculator_harrisonV2UITestsLaunchTests.swift */; };
+		255E989D2F2BCB4900C19968 /* M2Calculator_harrisonV2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E98972F2BCB4900C19968 /* M2Calculator_harrisonV2UITests.swift */; };
+		255E989E2F2BCB4900C19968 /* M2Calculator_harrisonV2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E98982F2BCB4900C19968 /* M2Calculator_harrisonV2UITestsLaunchTests.swift */; };
+		255E989F2F2BCB4900C19968 /* M2Calculator_harrisonV2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255E98972F2BCB4900C19968 /* M2Calculator_harrisonV2UITests.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		258CBA982F291ED600B6554C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,41 +57,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		255E98732F2BCB3900C19968 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		255E98742F2BCB3900C19968 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		255E98752F2BCB3900C19968 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		255E98762F2BCB3900C19968 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		255E98782F2BCB3900C19968 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		255E987A2F2BCB3900C19968 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		255E987B2F2BCB3900C19968 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		255E98922F2BCB4300C19968 /* M2Calculator_harrisonV2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = M2Calculator_harrisonV2Tests.swift; sourceTree = "<group>"; };
+		255E98972F2BCB4900C19968 /* M2Calculator_harrisonV2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = M2Calculator_harrisonV2UITests.swift; sourceTree = "<group>"; };
+		255E98982F2BCB4900C19968 /* M2Calculator_harrisonV2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = M2Calculator_harrisonV2UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		258CBA812F291ED400B6554C /* M2Calculator_harrison.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = M2Calculator_harrison.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		258CBA972F291ED600B6554C /* M2Calculator_harrisonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = M2Calculator_harrisonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		258CBAA12F291ED600B6554C /* M2Calculator_harrisonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = M2Calculator_harrisonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		258CBAA92F291ED600B6554C /* Exceptions for "M2Calculator_harrison" folder in "M2Calculator_harrison" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 258CBA802F291ED400B6554C /* M2Calculator_harrison */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		258CBA832F291ED400B6554C /* M2Calculator_harrison */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				258CBAA92F291ED600B6554C /* Exceptions for "M2Calculator_harrison" folder in "M2Calculator_harrison" target */,
-			);
-			path = M2Calculator_harrison;
-			sourceTree = "<group>";
-		};
-		258CBA9A2F291ED600B6554C /* M2Calculator_harrisonTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = M2Calculator_harrisonTests;
-			sourceTree = "<group>";
-		};
-		258CBAA42F291ED600B6554C /* M2Calculator_harrisonUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = M2Calculator_harrisonUITests;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		258CBA7E2F291ED400B6554C /* Frameworks */ = {
@@ -85,12 +97,43 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		255E987C2F2BCB3900C19968 /* M2Calculator_harrisonV2 */ = {
+			isa = PBXGroup;
+			children = (
+				255E98932F2BCB4300C19968 /* M2Calculator_harrisonV2Tests */,
+				255E98732F2BCB3900C19968 /* AppDelegate.swift */,
+				255E98742F2BCB3900C19968 /* Assets.xcassets */,
+				255E98752F2BCB3900C19968 /* Info.plist */,
+				255E98772F2BCB3900C19968 /* LaunchScreen.storyboard */,
+				255E98792F2BCB3900C19968 /* Main.storyboard */,
+				255E987A2F2BCB3900C19968 /* SceneDelegate.swift */,
+				255E987B2F2BCB3900C19968 /* ViewController.swift */,
+				255E98992F2BCB4900C19968 /* M2Calculator_harrisonV2UITests */,
+			);
+			path = M2Calculator_harrisonV2;
+			sourceTree = "<group>";
+		};
+		255E98932F2BCB4300C19968 /* M2Calculator_harrisonV2Tests */ = {
+			isa = PBXGroup;
+			children = (
+				255E98922F2BCB4300C19968 /* M2Calculator_harrisonV2Tests.swift */,
+			);
+			path = M2Calculator_harrisonV2Tests;
+			sourceTree = "<group>";
+		};
+		255E98992F2BCB4900C19968 /* M2Calculator_harrisonV2UITests */ = {
+			isa = PBXGroup;
+			children = (
+				255E98972F2BCB4900C19968 /* M2Calculator_harrisonV2UITests.swift */,
+				255E98982F2BCB4900C19968 /* M2Calculator_harrisonV2UITestsLaunchTests.swift */,
+			);
+			path = M2Calculator_harrisonV2UITests;
+			sourceTree = "<group>";
+		};
 		258CBA782F291ED400B6554C = {
 			isa = PBXGroup;
 			children = (
-				258CBA832F291ED400B6554C /* M2Calculator_harrison */,
-				258CBA9A2F291ED600B6554C /* M2Calculator_harrisonTests */,
-				258CBAA42F291ED600B6554C /* M2Calculator_harrisonUITests */,
+				255E987C2F2BCB3900C19968 /* M2Calculator_harrisonV2 */,
 				258CBA822F291ED400B6554C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -120,9 +163,6 @@
 			);
 			dependencies = (
 			);
-			fileSystemSynchronizedGroups = (
-				258CBA832F291ED400B6554C /* M2Calculator_harrison */,
-			);
 			name = M2Calculator_harrison;
 			packageProductDependencies = (
 			);
@@ -143,9 +183,6 @@
 			dependencies = (
 				258CBA992F291ED600B6554C /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				258CBA9A2F291ED600B6554C /* M2Calculator_harrisonTests */,
-			);
 			name = M2Calculator_harrisonTests;
 			packageProductDependencies = (
 			);
@@ -165,9 +202,6 @@
 			);
 			dependencies = (
 				258CBAA32F291ED600B6554C /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				258CBAA42F291ED600B6554C /* M2Calculator_harrisonUITests */,
 			);
 			name = M2Calculator_harrisonUITests;
 			packageProductDependencies = (
@@ -199,7 +233,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 258CBA7C2F291ED400B6554C /* Build configuration list for PBXProject "M2Calculator_harrison" */;
+			buildConfigurationList = 258CBA7C2F291ED400B6554C /* Build configuration list for PBXProject "M2Calculator_harrisonV2" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -225,6 +259,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				255E988B2F2BCB3900C19968 /* LaunchScreen.storyboard in Resources */,
+				255E988C2F2BCB3900C19968 /* Info.plist in Resources */,
+				255E988D2F2BCB3900C19968 /* Main.storyboard in Resources */,
+				255E988E2F2BCB3900C19968 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -232,6 +270,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				255E98802F2BCB3900C19968 /* LaunchScreen.storyboard in Resources */,
+				255E98812F2BCB3900C19968 /* Info.plist in Resources */,
+				255E98822F2BCB3900C19968 /* Main.storyboard in Resources */,
+				255E98832F2BCB3900C19968 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,6 +281,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				255E98842F2BCB3900C19968 /* LaunchScreen.storyboard in Resources */,
+				255E98852F2BCB3900C19968 /* Info.plist in Resources */,
+				255E98862F2BCB3900C19968 /* Main.storyboard in Resources */,
+				255E98872F2BCB3900C19968 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,6 +295,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				255E988F2F2BCB3900C19968 /* AppDelegate.swift in Sources */,
+				255E98902F2BCB3900C19968 /* SceneDelegate.swift in Sources */,
+				255E989C2F2BCB4900C19968 /* M2Calculator_harrisonV2UITestsLaunchTests.swift in Sources */,
+				255E989D2F2BCB4900C19968 /* M2Calculator_harrisonV2UITests.swift in Sources */,
+				255E98952F2BCB4300C19968 /* M2Calculator_harrisonV2Tests.swift in Sources */,
+				255E98912F2BCB3900C19968 /* ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +308,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				255E987D2F2BCB3900C19968 /* AppDelegate.swift in Sources */,
+				255E987E2F2BCB3900C19968 /* SceneDelegate.swift in Sources */,
+				255E989E2F2BCB4900C19968 /* M2Calculator_harrisonV2UITestsLaunchTests.swift in Sources */,
+				255E989F2F2BCB4900C19968 /* M2Calculator_harrisonV2UITests.swift in Sources */,
+				255E98962F2BCB4300C19968 /* M2Calculator_harrisonV2Tests.swift in Sources */,
+				255E987F2F2BCB3900C19968 /* ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +321,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				255E98882F2BCB3900C19968 /* AppDelegate.swift in Sources */,
+				255E98892F2BCB3900C19968 /* SceneDelegate.swift in Sources */,
+				255E989A2F2BCB4900C19968 /* M2Calculator_harrisonV2UITestsLaunchTests.swift in Sources */,
+				255E989B2F2BCB4900C19968 /* M2Calculator_harrisonV2UITests.swift in Sources */,
+				255E98942F2BCB4300C19968 /* M2Calculator_harrisonV2Tests.swift in Sources */,
+				255E988A2F2BCB3900C19968 /* ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +344,25 @@
 			targetProxy = 258CBAA22F291ED600B6554C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		255E98772F2BCB3900C19968 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				255E98762F2BCB3900C19968 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		255E98792F2BCB3900C19968 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				255E98782F2BCB3900C19968 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		258CBAAB2F291ED600B6554C /* Debug */ = {
@@ -526,7 +609,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		258CBA7C2F291ED400B6554C /* Build configuration list for PBXProject "M2Calculator_harrison" */ = {
+		258CBA7C2F291ED400B6554C /* Build configuration list for PBXProject "M2Calculator_harrisonV2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				258CBAAD2F291ED600B6554C /* Debug */,
